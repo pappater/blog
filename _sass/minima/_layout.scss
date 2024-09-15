@@ -3,7 +3,7 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  // border-bottom: 1px solid $grey-color-light;
+  border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -11,25 +11,20 @@
 }
 
 .site-title {
-  @include relative-font-size(10);
+  @include relative-font-size(3);
   font-weight: 900;
-  line-height: $base-line-height * $base-font-size * 4;
+  line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
-  margin-bottom: 100px;
-  text-decoration: none;
+  margin-bottom: 0;
   float: left;
-  margin-top: 50px;
+
   &,
   &:visited {
     color: $grey-color-dark;
   }
-  &:hover {
-    text-decoration: none;
-  }
 }
 
 .site-nav {
-  display: none;
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
@@ -70,7 +65,7 @@
     }
 
     .menu-icon {
-      display: none;
+      display: block;
       float: right;
       width: 36px;
       height: 26px;
@@ -125,7 +120,7 @@
 }
 
 .footer-col-wrapper {
-  @include relative-font-size(1.5);
+  @include relative-font-size(0.9375);
   color: $grey-color;
   margin-left: -$spacing-unit * 0.5;
   @extend %clearfix;
@@ -190,8 +185,7 @@
 }
 
 .post-list {
-  width: 900px;
-  margin: auto;
+  margin-left: 0;
   list-style: none;
 
   > li {
@@ -200,14 +194,13 @@
 }
 
 .post-meta {
-  @include relative-font-size(1.5);
+  font-size: $small-font-size;
   color: $grey-color;
 }
 
 .post-link {
   display: block;
-  @include relative-font-size(3);
-  font-weight: 900;
+  @include relative-font-size(2.5);
 }
 
 /**
@@ -218,10 +211,10 @@
 }
 
 .post-title {
-  @include relative-font-size(5);
+  @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
-  font-weight: 900;
+
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
   }
