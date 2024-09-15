@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web Scraping with Cheerio and Puppeteer: A Comprehensive Guide"
-date: 2024-09-15 00:22:00 +0530
+date: 2024-09-16 00:22:00 +0530
 categories: mardown html tool web
 ---
 
