@@ -9,8 +9,8 @@ categories: jekyll update
 
 The Random Location application displays a random location on a map within a specified radius from the user's current location or a manually entered location. This tool provides an interactive way to visualize different geographical areas.
 
-![Random Location App in light mode](assets/images/light.png)
-![Random Location App in dark mode](assets/images/dark.png)
+![Random Location App in light mode](../assets/images/light.png)
+![Random Location App in dark mode](../assets/images/dark.png)
 
 ## Tech Stack Used
 
