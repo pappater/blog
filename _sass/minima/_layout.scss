@@ -124,6 +124,7 @@
   color: $grey-color;
   margin-left: -$spacing-unit * 0.5;
   @extend %clearfix;
+  font-weight: 400;
 }
 
 .footer-col {
@@ -187,9 +188,12 @@
 .post-list {
   margin-left: 0;
   list-style: none;
-
+  a {
+    font-weight: 800;
+  }
   > li {
     margin-bottom: $spacing-unit;
+    font-weight: 800;
   }
 }
 
@@ -222,6 +226,11 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  p,
+  li {
+    @include relative-font-size(1);
+    font-weight: 300;
+  }
 
   h2 {
     @include relative-font-size(2);
