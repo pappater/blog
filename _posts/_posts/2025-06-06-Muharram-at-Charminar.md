@@ -1,6 +1,11 @@
-
-
 ---
+layout: post
+title: "Muharram at Charminar"
+date: 2025-07-06 11:58:20 +0530
+categories: jekyll update
+---
+
+
 
 Hyderabad, a city known for its rich heritage and layered cultural identity, revealed another face of itself yesterday. As I walked through the lanes near Charminar, I found myself amid a large gathering—quiet at times, intense at others, and altogether unlike anything I had witnessed before. A procession was making its way through the streets, and what I saw wasn’t just a religious ritual, but a living expression of sorrow, memory, and resilience.
 
@@ -16,5 +21,3 @@ What stood out, even more than the rituals, was the unity in diversity. Among th
 
 As I left the area, the sound of the chains—the mournful rhythm of remembrance—lingered in my ears. It didn’t feel like pain. It felt like memory refusing to be forgotten. A voice from the past insisting that some sacrifices must always be remembered. And one message stood out above all: stand for what is right, even if you must stand alone.
 
-
----
