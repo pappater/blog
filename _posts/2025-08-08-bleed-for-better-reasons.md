@@ -1,4 +1,4 @@
-```It is said that warmth is sought during winter.
+It is said that warmth is sought during winter.
 The train is moving in its peak, where all the vision gets blurred. 
 The big faces were painted pink and lips of black. 
 Sitting at the corner, the head was brushed out and hanged. 
@@ -30,5 +30,4 @@ Those gunners once had a butterfly wings,
 Now the pigs were a burden to the people.
 And he shot a fish head with his gun, 
 That the old lady, holding a cat, hated those men. 
-I will bleed for better reasons this year. 
-```
+I will bleed for better reasons this year.
