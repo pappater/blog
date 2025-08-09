@@ -21,4 +21,3 @@ I see the rain clouds.
 I see the message filled with warning.  
 Testing the car, A Car, Car.  
 It moved, with a half smile.  
-
