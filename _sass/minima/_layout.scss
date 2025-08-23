@@ -228,8 +228,9 @@
   margin-bottom: $spacing-unit;
   p,
   li {
-    @include relative-font-size(1);
-    font-weight: 300;
+    @include relative-font-size(0.75);
+    font-weight: 400;
+    text-align: justify;
   }
 
   h2 {
