@@ -69,7 +69,7 @@ This will generate a `vulnerable-report.csv` file with detailed information abou
 
 ## Conclusion
 
-This toolchain bridges the gap between raw audit data and actionable insights. By visualizing the parent chains of vulnerable packages and providing exportable reports, it empowers developers to make informed decisions about dependency upgrades and project security.
+This toolchain bridges the gap between raw audit data and actionable insights. By visualizing the parent chains of vulnerable packages and providing exportable reports, it empowers developers to make informed decisions about dependency upgrades and project security. 
 
 ---
 
